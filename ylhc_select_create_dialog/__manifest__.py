@@ -9,6 +9,7 @@
     """,
     'author': 'ylhctec',
     'website': 'https://www.ylhctec.com',
+    'live_test': 'https://www.ylhctec.com',
     'depends': ['web'],
     'images': [
         'static/description/kanban.png',
